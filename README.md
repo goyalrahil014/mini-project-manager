@@ -1,7 +1,7 @@
-# Project Manager - Full Stack (Minimal)
+# Mini Project Manager
 
 ## Overview
-Minimal project management app implemented to satisfy the assignment:
+Mini Project Manager:
 - Backend: .NET 8 Web API + EF Core + SQLite + JWT Authentication
 - Frontend: React + TypeScript (Vite) minimal UI
 
